@@ -1,0 +1,73 @@
+
+h1{
+    text-align: center;
+    color: #483D8B;
+    text-decoration: underline;
+}
+#book{
+    padding-bottom: 5px;
+    padding-right: 15px;
+}
+#soccerball{
+    padding-right: 13px;
+}
+
+#SDS{
+    height: auto;
+    width: 100%;
+}
+#aw{
+text-align: right;
+font-weight: bolder;
+font-style: italic;
+text-decoration: underline;
+
+}
+#jc{
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+}
+#awp{
+margin-left: 15px;
+}
+#jcp{
+
+}
+#div1{
+    background-color: grey
+}
+#AC{
+    text-align: right;
+    padding-left: 10px;
+    width:200px;
+}
+#videogames{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    font-style: oblique;
+
+}
+#blizz{
+    width: 30%;
+    padding-right: 10px;
+}
+td{
+    border-style: ridge;
+    border-color: black;
+}
+#div2{
+    background-image: url(sculpin.jpeg);
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+
+}
+#beer{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bolder;
+    font-style: italic;
+
+}
